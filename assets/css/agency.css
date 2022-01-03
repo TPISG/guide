@@ -192,8 +192,7 @@ img::-moz-selection {
 header.masthead {
 	text-align: center;
 	color: white;
-	background-image: url("../img/tpisg/winel-sutanto-RbSwWKvFGk0-unsplash.jpg"),
-		linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%);
+	background-image: url("../img/tpisg/winel-sutanto-RbSwWKvFGk0-unsplash.jpg");
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
